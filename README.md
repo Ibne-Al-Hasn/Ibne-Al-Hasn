@@ -55,10 +55,7 @@ I'm **Ibne Al Hasan Ibnat**, a Junior Web Developer and Web Designer from Bangla
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibne-Al-Hasn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibne-Al-Hasn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ibne-Al-Hasn&theme=tokyonight&hide_border=true" />
